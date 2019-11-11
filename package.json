@@ -1,8 +1,11 @@
 {
-  "name": "yarn-nested-dedupe",
+  "name": "@diokuz/yarn-nested-dedupe-0",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:Diokuz/yarn-nested-dedupe.git",
   "author": "Dmitriy Kuznetsov <d.o.kuznetsov@tinkoff.ru>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^1"
+  }
 }
