@@ -1,0 +1,11 @@
+{
+  "name": "foobar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "diokuz-yarn-nested-dedupe-a": "^1.0.0",
+    "diokuz-yarn-nested-dedupe-b": "^1.0.0",
+    "diokuz-yarn-nested-dedupe-c": "^2.0.0"
+  }
+}
