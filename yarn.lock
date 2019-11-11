@@ -6,3 +6,36 @@ date-fns@^1:
   version "1.30.1"
   resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-1.30.1.tgz#2e71bf0b119153dbb4cc4e88d9ea5acfb50dc05c"
   integrity sha512-hBSVCvSmWC+QypYObzwGOd9wqdDpOt+0wl0KbU+R+uuZBS1jN8VsD1ss3irQDknRj5NvxiTF6oj/nDRnN/UQNw==
+
+date-fns@^2:
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.7.0.tgz#8271d943cc4636a1f27698f1b8d6a9f1ceb74026"
+  integrity sha512-wxYp2PGoUDN5ZEACc61aOtYFvSsJUylIvCjpjDOqM1UDaKIIuMJ9fAnMYFHV3TQaDpfTVxhwNK/GiCaHKuemTA==
+
+diokuz-yarn-nested-dedupe-0@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/diokuz-yarn-nested-dedupe-0/-/diokuz-yarn-nested-dedupe-0-1.0.0.tgz#f1578ee6688bb42fc41469d7aa92e9a6006e8dac"
+  integrity sha512-3cC8QtTI8p/DNawQkRDvFhLt1HVItCIlPp87ucagYlwWXZBR+OYa1FUlfDcfIH4MZDK4CwHfVSKRwSfOtjxQgg==
+  dependencies:
+    date-fns "^1"
+
+diokuz-yarn-nested-dedupe-b@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/diokuz-yarn-nested-dedupe-b/-/diokuz-yarn-nested-dedupe-b-1.0.0.tgz#3272ad1496493998952e6248e0df53f0b1c6d858"
+  integrity sha512-cXeSsQCVjPKbs7yueiK2c5lLsfz1oE3a2I6adz8w5FyKjlwT6LEZuZUxNTevr1+z1E5TuuemUi/oV+zy4ASwKg==
+  dependencies:
+    date-fns "^1"
+
+diokuz-yarn-nested-dedupe-c@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/diokuz-yarn-nested-dedupe-c/-/diokuz-yarn-nested-dedupe-c-1.0.0.tgz#f30f2ca3770b608074c1799854117baa0c9349f1"
+  integrity sha512-NfWq5o2TiaHizgOk7z2aD4kNxsLCj7b4ZkqjDUvrKYpPTCOfdhgtzTMscF/svHMjnfGKJUk5LWkvJLv3WKZ2KA==
+  dependencies:
+    date-fns "^2"
+
+diokuz-yarn-nested-dedupe-d@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/diokuz-yarn-nested-dedupe-d/-/diokuz-yarn-nested-dedupe-d-1.0.0.tgz#04c9bd9a0c83fe9136182074a4e9de15eb969b07"
+  integrity sha512-6CaC38JTMuRMQJM5+8qvsNgwBvWevE1ifKhXFbSZHUdkzf3xj4kdlV9tWQtIqtk/zQslgiTED6zWv0FKLP9gCA==
+  dependencies:
+    date-fns "^2"
